@@ -9,6 +9,10 @@
 *   **预计开发周期：** 个人全职开发约 4-6 周
 
 ---
+
+### 📂 项目目录结构树 (Project Directory Tree)
+
+```text
 scholar-flow/
 ├── .github/                   # GitHub Actions CI/CD 配置 (进阶)
 │   └── workflows/
@@ -68,7 +72,7 @@ scholar-flow/
 ├── docker-compose.yml         # 一键启动前后端
 ├── LICENSE                    # MIT License
 └── README.md                  # 项目主页说明书
-
+```
 
 ### 🛠️ 第一部分：技术栈选型 (2025 主流配置)
 
